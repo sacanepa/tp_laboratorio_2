@@ -1,0 +1,8 @@
+C:\Users\caron_000\Documents\Santi\UTN\Laboratorio II\Trabajos Practicos\TP1_Canepa\TP1_Canepa\TP1_Canepa\bin\Debug\TP1_Canepa.exe.config
+C:\Users\caron_000\Documents\Santi\UTN\Laboratorio II\Trabajos Practicos\TP1_Canepa\TP1_Canepa\TP1_Canepa\bin\Debug\TP1_Canepa.exe
+C:\Users\caron_000\Documents\Santi\UTN\Laboratorio II\Trabajos Practicos\TP1_Canepa\TP1_Canepa\TP1_Canepa\bin\Debug\TP1_Canepa.pdb
+C:\Users\caron_000\Documents\Santi\UTN\Laboratorio II\Trabajos Practicos\TP1_Canepa\TP1_Canepa\TP1_Canepa\obj\Debug\TP1_Canepa.csprojResolveAssemblyReference.cache
+C:\Users\caron_000\Documents\Santi\UTN\Laboratorio II\Trabajos Practicos\TP1_Canepa\TP1_Canepa\TP1_Canepa\obj\Debug\TP1_Canepa.exe
+C:\Users\caron_000\Documents\Santi\UTN\Laboratorio II\Trabajos Practicos\TP1_Canepa\TP1_Canepa\TP1_Canepa\obj\Debug\TP1_Canepa.pdb
+C:\Users\caron_000\Documents\Santi\UTN\Laboratorio II\Trabajos Practicos\TP1_Canepa\TP1_Canepa\TP1_Canepa\obj\Debug\TP1_Canepa.Formulario.resources
+C:\Users\caron_000\Documents\Santi\UTN\Laboratorio II\Trabajos Practicos\TP1_Canepa\TP1_Canepa\TP1_Canepa\obj\Debug\TP1_Canepa.csproj.GenerateResource.Cache
